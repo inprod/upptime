@@ -1,4 +1,4 @@
-# [📈 Live Status](https://demo.upptime.js.org): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://ps-jan.github.io/upptime/): <!--live status--> **🟩 All systems operational**
 
 This repository contains the open-source uptime monitor and status page for [ps-jan](https://demo.upptime.js.org), powered by [Upptime](https://github.com/upptime/upptime).
 
